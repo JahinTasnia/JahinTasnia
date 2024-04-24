@@ -1,4 +1,4 @@
-![logo](https://github.com/JahinTasnia/JahinTasnia/blob/main/JXA0.gif) 
+![logo](https://github.com/JahinTasnia/JahinTasnia/blob/main/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif) 
 <h1 align="center">Hi 👋, I'm Jahin Tasnia</h1>
 <h3 align="center">A Competitive Pogrammer from Bangladesh</h3>
 <img align = "right" alt="coding" width ="400" src= "https://github.com/JahinTasnia/JahinTasnia/blob/main/JXA0.gif">
