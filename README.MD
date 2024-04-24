@@ -1,7 +1,7 @@
 ![logo](https://github.com/JahinTasnia/JahinTasnia/blob/main/JXA0.gif) 
 <h1 align="center">Hi 👋, I'm Jahin Tasnia</h1>
 <h3 align="center">A Competitive Pogrammer from Bangladesh</h3>
-<img align = "right" alt="coding" width ="400" src= "https://i.gifer.com/JXA0.gif">
+<img align = "right" alt="coding" width ="400" src= "https://github.com/JahinTasnia/JahinTasnia/blob/main/JXA0.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahidpanda&label=Profile%20views&color=0e75b6&style=flat" alt="wahidpanda" /> </p>
 
 <p align="left"> <a href="https://twitter.com/teamapex0" target="blank"><img src="https://img.shields.io/twitter/follow/teamapex0?logo=twitter&style=for-the-badge" alt="teamapex0" /></a> </p>
