@@ -1,6 +1,6 @@
-![logo](https://github.com/wahidpanda/wahidpanda/blob/main/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif) 
-<h1 align="center">Hi 👋, I'm Wahid</h1>
-<h3 align="center">A passionate Coder from Bangladesh</h3>
+![logo](https://i.gifer.com/JXA0.gif) 
+<h1 align="center">Hi 👋, I'm Jahin Tasnia</h1>
+<h3 align="center">A Competitive Pogrammer from Bangladesh</h3>
 <img align = "right" alt="coding" width ="400" src= "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahidpanda&label=Profile%20views&color=0e75b6&style=flat" alt="wahidpanda" /> </p>
 
