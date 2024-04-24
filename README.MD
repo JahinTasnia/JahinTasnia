@@ -6,28 +6,20 @@
 
 <p align="left"> <a href="https://twitter.com/teamapex0" target="blank"><img src="https://img.shields.io/twitter/follow/teamapex0?logo=twitter&style=for-the-badge" alt="teamapex0" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning**
+- 🔭 I’m currently working on **Software Developing**
 
-- 🌱 I’m currently learning **Quantum Computing**
-
-- 👯 I’m looking to collaborate on **AI**
-
-- 👨‍💻 All of my projects are available at [https://sites.google.com/diu.edu.bd/oahidulislam/projects?authuser=0](https://sites.google.com/diu.edu.bd/oahidulislam/projects?authuser=0)
+- 🌱 I’m currently doing **Competitive Pogramming**
 
 - 📝 I regularly write articles on [https://twitter.com/TEAMAPEX0](https://twitter.com/TEAMAPEX0)
 
-- 📫 How to reach me **islamoahidul12@gmail.com**
+- 📫 How to reach me **jahintasnia15@gmail.com**
 
-- 📄 Know about my experiences [https://sites.google.com/diu.edu.bd/oahidulislam/portfolio?authuser=0](https://sites.google.com/diu.edu.bd/oahidulislam/portfolio?authuser=0)
-
-- ⚡ Fun fact **🎮 Gaming | 💻 Coding | ☕ TEA | 😴 SLEEP**
+- ⚡ Fun fact **🎮 💻 Coding | ☕ TEA | 😴 SLEEP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/teamapex0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teamapex0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oahidul-i-23182b194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oahidul-i-23182b194/" height="30" width="40" /></a>
-<a href="https://kaggle.com/islam.wahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="islam.wahid" height="30" width="40" /></a>
-<a href="https://discord.gg/wahid8113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wahid8113" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jahin-tasnia-389aba240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oahidul-i-23182b194/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
